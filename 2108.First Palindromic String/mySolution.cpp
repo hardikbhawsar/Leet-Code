@@ -29,7 +29,6 @@ public:
 };
 
 
-
 int main(){
 Solution s;
 vector<string> words; 
