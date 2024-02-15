@@ -32,7 +32,6 @@ public:
     }
 };
 
-
 int main(){
 Solution s;
 vector<int> nums; 
