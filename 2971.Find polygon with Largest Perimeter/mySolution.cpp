@@ -32,5 +32,3 @@ long long a = s.largestPerimeter(nums);
 cout<<a<<" ";
 return 0;
 }
-
-
