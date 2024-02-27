@@ -4,12 +4,6 @@
 #include<vector>
 using namespace std;
 
-#include <climits>
-#include<iostream>
-#include <unordered_map>
-#include<vector>
-using namespace std;
-
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
