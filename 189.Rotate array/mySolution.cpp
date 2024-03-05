@@ -30,3 +30,5 @@ for(int i=0; i< nums.size(); i++){
 }
 return 0;
 }
+
+//Time : O(N), Space: O(1)
