@@ -1,3 +1,7 @@
+/*
+Time Complexity : 2n
+ */
+ 
 #include<iostream>
 #include<string>
 using namespace std;
