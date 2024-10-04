@@ -1,3 +1,6 @@
+/*
+Time Complexity: O(n)
+*/
 #include <algorithm>
 #include<iostream>
 #include <vector>
