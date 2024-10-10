@@ -1,5 +1,5 @@
 /*
-Time Complexity: O(2n);
+Time Complexity: O(n);
 */
 #include<iostream>
 #include <vector>
@@ -12,7 +12,7 @@ public:
         int len = nums.size();
         for(int i = 0; i <= len-1; i++){
             if (nums[i] == target ){
-                result.push_back(i);
+                result.push_back(i); 
                 break;
             }
         }
